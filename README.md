@@ -16,3 +16,8 @@ El dataset ha sido descargado de: T (https://www.kaggle.com/c/titanic)
 
 Licencia
 El contenido de este proyecto esta licencia bajo la licencia de tipo Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+
+El contenido de la practica es:
+mterrats_PRACTICA2_TVD.doc --> es la descripción de la práctica
+train.csv --> fichero de datos utilizado
+Instrucciones_Titanic.R --> código en R
