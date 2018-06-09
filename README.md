@@ -1,7 +1,8 @@
 # TVC_PRACTICA2
 Proyecto para practica 2 de la asignatura Tipología y Visualización de Datos
 
-Análisis del fichero de pasajeros del barco Titanic
+Análisis del fichero de pasajeros del barco Titanic.
+
 Autor
 María del Carmen Terrats, mctr1977@gmail.com
 
